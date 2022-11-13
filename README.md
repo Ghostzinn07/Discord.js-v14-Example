@@ -3,4 +3,6 @@
 
 
 ### Links
-[ Ajuda ](https://instagram.com/ghostzinn07) 
+[ Ajuda ](https://instagram.com/ghostzinn07)
+
+[ Discord.js ](https://discord.js.org)
