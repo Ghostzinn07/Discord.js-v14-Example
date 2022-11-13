@@ -10,5 +10,10 @@ global.client = new Client({
      ], 
     disableMentions: 'everyone', 
  }); 
- 
+
+ //Arquivos 
+require('./eventos/ready');
+
+
+
  client.login('token'); //Altere para o token da sua aplicação
