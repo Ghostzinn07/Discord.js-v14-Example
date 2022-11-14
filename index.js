@@ -11,8 +11,9 @@ global.client = new Client({
     disableMentions: 'everyone', 
  }); 
 
- //Arquivos 
-require('./eventos/ready');
+ //Handler
+require('./handler/loader');
+
 
 
 
