@@ -2,6 +2,9 @@
 `Um exemplo para um bot em SlashCommands utilizando Discord.js v14`
 
 
+###### Thanks ZerioDev
+❤ [ - ](https://github.com/ZerioDev)
+
 ### Links
 [ Ajuda ](https://instagram.com/ghostzinn07)
 
