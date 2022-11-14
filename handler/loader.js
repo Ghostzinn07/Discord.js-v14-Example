@@ -27,5 +27,5 @@ const eventos  = readdirSync('./eventos/').filter(file => file.endsWith('.j
      }; 
  }); 
  client.on('ready', (client) => { 
-  (client.config.app.global) client.application.commands.set(Array) 
+ client.application.commands.set(Array) 
  })
